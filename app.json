@@ -1,0 +1,6 @@
+{
+	"name": "Chirp App",
+	"description": "A basic chat app like twitter having lgin and sign up facility along with deleting a post",
+	"repository":"https://github.com/SaqlainGardezi/chirp-app",
+	"keywords": ["chirp","twitter","chat","node js","express","angular","mean"]
+}
