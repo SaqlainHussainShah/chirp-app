@@ -2,4 +2,6 @@
 
 ###[See me live](https://chirp-app-saqlain.herokuapp.com/#/)###
 
-It is the same as ###[ChirpApp](https://github.com/SaqlainGardezi/chirpApp) ###  with ##additional feature## of #post deletion#
+It is the same as [ChirpApp](https://github.com/SaqlainGardezi/chirpApp)   
+##additional feature 
+#post deletion#
